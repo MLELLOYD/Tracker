@@ -7,7 +7,7 @@ const app = express();
 app.use(cors());
 app.use(bodyParser.json());
 
-const SHOPIFY_STORE_URL = "https://makerlab-electronics-ph.myshopify.com"; // Make sure this is correct
+const SHOPIFY_STORE_URL = ""; // Make sure this is correct
 const ACCESS_TOKEN = " ";
 
 
